@@ -1,7 +1,7 @@
 Ethnicity in 1%
 =====
 <p align="center">
-  <img src="./Images/Figure.png" height="500">
+  <img src="./Images/Figure.png" height="400">
 </p>
 
 About
